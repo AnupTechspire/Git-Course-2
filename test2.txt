@@ -1,3 +1,5 @@
 This is test 2 file.
 
 It should be ignored in main branch
+
+This is new changes.
