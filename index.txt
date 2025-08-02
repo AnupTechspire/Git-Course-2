@@ -1,0 +1,6 @@
+Cherry-pick
+
+Revert Changes 
+
+Reset Changes (Hard, soft, mixed)
+
