@@ -1,1 +1,2 @@
-This is different text from main branch.
+Line A changed
+Line 2
