@@ -1,0 +1,8 @@
+This is test 1 file.
+
+Cherry-pick
+
+Revert Changes 
+
+Reset Changes (Hard, soft, mixed)
+
